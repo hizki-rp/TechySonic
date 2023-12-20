@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TechySonic/static/css/main.922b6cdd.css",
-    "main.js": "/TechySonic/static/js/main.020b887c.js",
+    "main.js": "/TechySonic/static/js/main.b8d532ac.js",
     "static/js/787.705a796e.chunk.js": "/TechySonic/static/js/787.705a796e.chunk.js",
     "static/media/pc2.png": "/TechySonic/static/media/pc2.e0360b0dd6b875fc9380.png",
     "static/media/pc3.jpg": "/TechySonic/static/media/pc3.75158e6b3c33ef8649f0.jpg",
@@ -17,11 +17,11 @@
     "static/media/pc10.png": "/TechySonic/static/media/pc10.ef1a70434f789df04fec.png",
     "index.html": "/TechySonic/index.html",
     "main.922b6cdd.css.map": "/TechySonic/static/css/main.922b6cdd.css.map",
-    "main.020b887c.js.map": "/TechySonic/static/js/main.020b887c.js.map",
+    "main.b8d532ac.js.map": "/TechySonic/static/js/main.b8d532ac.js.map",
     "787.705a796e.chunk.js.map": "/TechySonic/static/js/787.705a796e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.922b6cdd.css",
-    "static/js/main.020b887c.js"
+    "static/js/main.b8d532ac.js"
   ]
 }

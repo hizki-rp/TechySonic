@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TechySonic/static/css/main.922b6cdd.css",
-    "main.js": "/TechySonic/static/js/main.b8d532ac.js",
+    "main.css": "/TechySonic/static/css/main.ee850fbe.css",
+    "main.js": "/TechySonic/static/js/main.866d7e5e.js",
     "static/js/787.705a796e.chunk.js": "/TechySonic/static/js/787.705a796e.chunk.js",
     "static/media/pc2.png": "/TechySonic/static/media/pc2.e0360b0dd6b875fc9380.png",
     "static/media/pc3.jpg": "/TechySonic/static/media/pc3.75158e6b3c33ef8649f0.jpg",
@@ -15,13 +15,15 @@
     "static/media/pc5.png": "/TechySonic/static/media/pc5.1e582a4aff0034fa9053.png",
     "static/media/pc1.png": "/TechySonic/static/media/pc1.d1c1301216d2e9489157.png",
     "static/media/pc10.png": "/TechySonic/static/media/pc10.ef1a70434f789df04fec.png",
+    "static/media/img1.jpeg": "/TechySonic/static/media/img1.9968c2fef7d77d2d4bd3.jpeg",
+    "static/media/img2.jpeg": "/TechySonic/static/media/img2.6da9eb9eeaaadd6f3c8f.jpeg",
     "index.html": "/TechySonic/index.html",
-    "main.922b6cdd.css.map": "/TechySonic/static/css/main.922b6cdd.css.map",
-    "main.b8d532ac.js.map": "/TechySonic/static/js/main.b8d532ac.js.map",
+    "main.ee850fbe.css.map": "/TechySonic/static/css/main.ee850fbe.css.map",
+    "main.866d7e5e.js.map": "/TechySonic/static/js/main.866d7e5e.js.map",
     "787.705a796e.chunk.js.map": "/TechySonic/static/js/787.705a796e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.922b6cdd.css",
-    "static/js/main.b8d532ac.js"
+    "static/css/main.ee850fbe.css",
+    "static/js/main.866d7e5e.js"
   ]
 }

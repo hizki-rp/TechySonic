@@ -1,11 +1,14 @@
 import React from 'react'
+import {Link} from 'react-router-dom';
+import {Shop} from '../pages/shop/shop';
 import './hero.css';
 import img1 from '../assets/hero/img1.jpeg';
 import img2 from '../assets/hero/img2.jpeg';
+import img3 from '../assets/hero/img3.jpeg';
 
 export const Hero = () => {
   return (
-    <div className='app'>
+    <div className='hero'>
       
       <div className='sidebar'>
          <div className='PC-types'>
@@ -17,7 +20,7 @@ export const Hero = () => {
                 <li>Budget</li>
              </ul>
          </div>
-         <div className='price-options'>
+           <div className='price-options'>
               <ul>
               <div className='sidebar__header'>Filter with price</div>
                 <li>over $1000</li>
@@ -26,23 +29,30 @@ export const Hero = () => {
              </ul>
             </div>
       </div>
-      <div className='featured'>
+         <div className='featured'>
+              <div className='featured__left-one'>
+                   <a className='link-rel' href='#shop-hero'>
+                     <img className='img img1' src={img1} ></img>
+                   </a>
+             </div>
+                <div className='featured__left-two'>
+               
+                   <a className='link-rel' href='#shophero'>
+                      <img className='img img2' src={img2} ></img>
+                   </a>
+              
+                </div>
 
-        <div className='featured__img1'>
-           <a className='link-rel' href='#'>
-             <img className='img1' src={img1} height={400} width={1140}></img>
-             <button className='btn btn1'>Shop now</button>
-           </a>
+            <div className='featured__right'>
+                   <a className='link-rel' href='#shophero'>
+                      <img className='img img3' src={img3} ></img>
+                    </a>
+            </div>
+            <Shop id="shop-hero"></Shop>
+        
+
         </div>
-        <div className='featured__img2'>
-          <a className='link-rel' href='#'>
-            <img className='img2' src={img2} height={250} width={1140}></img>  
-            <button className='btn btn2'>Shop now</button>
-          </a>
-        </div>
-           
-       </div>
-    </div>
+   </div>
   )
 }
 

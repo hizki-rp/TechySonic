@@ -1,4 +1,5 @@
 .shopTitle {
+    width: 90vw;
     margin-top: 100px;
     text-align: center;
     font-size: 40px;
@@ -6,7 +7,7 @@
 }
 
 .products{
-    width: 100%;
+    width: 90vw;
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -19,13 +20,14 @@
 
 .product{
     border-radius: 15px;
-    width: 300px;
-    height: 350px;
-    margin: 60px;
+    width: 130px;
+    height: 150px;
+    margin: 120px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    column-gap: 10px;;
 
 }
 .product img{
@@ -50,4 +52,3 @@
     background-color: rgb(255, 229, 84);
     transition: 0.8s;
 }
-

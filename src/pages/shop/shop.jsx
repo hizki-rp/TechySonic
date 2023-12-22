@@ -2,10 +2,11 @@ import React from 'react';
 import {PRODUCTS} from"../../products";
 import {Product} from "./product";
 import "./shop.css";
+import "../../components/hero.css";
 
 export const Shop = () => {
   return (
-    <div className="shop">
+    <div id="shop" className="shop">
       <div className="shopTitle">
         <h1>TechySonic</h1>
       </div>

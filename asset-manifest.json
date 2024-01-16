@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TechySonic/static/css/main.7bc79d6f.css",
+    "main.css": "/TechySonic/static/css/main.67de5e03.css",
     "main.js": "/TechySonic/static/js/main.2e0f850e.js",
     "static/js/787.705a796e.chunk.js": "/TechySonic/static/js/787.705a796e.chunk.js",
     "static/media/pc2.png": "/TechySonic/static/media/pc2.e0360b0dd6b875fc9380.png",
@@ -19,12 +19,12 @@
     "static/media/img1.jpeg": "/TechySonic/static/media/img1.9968c2fef7d77d2d4bd3.jpeg",
     "static/media/img2.jpeg": "/TechySonic/static/media/img2.6da9eb9eeaaadd6f3c8f.jpeg",
     "index.html": "/TechySonic/index.html",
-    "main.7bc79d6f.css.map": "/TechySonic/static/css/main.7bc79d6f.css.map",
+    "main.67de5e03.css.map": "/TechySonic/static/css/main.67de5e03.css.map",
     "main.2e0f850e.js.map": "/TechySonic/static/js/main.2e0f850e.js.map",
     "787.705a796e.chunk.js.map": "/TechySonic/static/js/787.705a796e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bc79d6f.css",
+    "static/css/main.67de5e03.css",
     "static/js/main.2e0f850e.js"
   ]
 }
